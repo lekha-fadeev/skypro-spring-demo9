@@ -1,6 +1,7 @@
 package pro.sky.skyprospringdemo9.exception;
 
 public class InvalidIndexException extends RuntimeException {
+
     public InvalidIndexException() {
     }
 

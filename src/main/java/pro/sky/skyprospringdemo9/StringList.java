@@ -8,6 +8,7 @@ import java.util.Arrays;
 
 public class StringList {
 
+
     private final String[] storage;
     private int size;
 

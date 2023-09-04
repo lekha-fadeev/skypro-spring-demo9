@@ -1,6 +1,7 @@
 package pro.sky.skyprospringdemo9.exception;
 
 public class ElementNotFoundException extends RuntimeException {
+
     public ElementNotFoundException() {
     }
 

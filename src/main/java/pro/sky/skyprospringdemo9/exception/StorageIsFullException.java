@@ -1,6 +1,7 @@
 package pro.sky.skyprospringdemo9.exception;
 
 public class StorageIsFullException extends RuntimeException {
+
     public StorageIsFullException() {
     }
 
